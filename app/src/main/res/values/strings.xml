@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Born2Win News</string>
+    <string name="btn_envoyer">Envoyer</string>
+    <string name="edit_message">Entrez un message</string>
+
+    <string name="titre_carte">Ma carte</string>
+    <string name="sous_titre">Sous-Titre</string>
+
+    <string name="sous_titre_article">Sous-titre de l\'article</string>
+    <string name="titre_article">Titre de l\'article</string>
+    <string name="auteur_article">Auteur de l\'article</string>
+    <string name="contenu_article">Contenu de l\'article</string>
+    <string name="date_article">11/11</string>
+
+    <string name="profilUtil_utilisateur">Nom d\'utilisateur</string>
+    <string name="profilUtil_nom">Nom</string>
+    <string name="profilUtil_prenom">Prénom</string>
+
+    <string name="texte_carte">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Suspendisse at tellus a eros semper lacinia.</string>
+    <string name="texte_carte_2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur sed nulla id luctus.
+        Etiam lectus erat, gravida quis nunc a, aliquet mattis lacus. Vivamus convallis sem in placerat.
+        Vivamus sed tincidunt dui, vel tincidunt erat. Vivamus sodales rutrum lectus in pulvinar.
+        Nam ex lectus, fringilla id ipsum et, finibus lobortis dolor. Integer condimentum mauris mi, sit amet iaculis tellus rhoncus eu.
+        Pellentesque tincidunt lectus a metus lacinia hendrerit. Etiam iaculis eros et sapien aliquet, sit amet maximus elit elementum.
+        Curabitur neque tellus, tristique sed tincidunt eu, dictum at enim. Nam erat ex, efficitur et finibus id, fermentum et nulla.
+        Morbi tempus velit eget semper tincidunt. Maecenas faucibus, orci at sollicitudin ultricies, tellus erat porta ligula,
+        et efficitur enim neque quis sapien. Vestibulum nec dui ac lectus dignissim volutpat.</string>
+    <string name="auteur">Auteur</string>
+
+    <string name="slide_titre">Titre</string>
+    <string name="slide_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In consectetur sed nulla id luctus.
+        Etiam lectus erat, gravida quis nunc a, aliquet mattis lacus. Vivamus convallis sem in placerat.</string>
+    <string name="btnPrec">Précédent</string>
+    <string name="btnSuiv">Suivant</string>
+    <string name="btnFin">Commencer</string>
+    <string name="btnCredit">Crédit</string>
+
+    <string name="defaultpassword">User Guide <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a></string>
+
+    <string name="credit_freepik"><a href="http://www.freepik.com">Freepik</a></string>
+    <string name="credit_flaticon"><a href="https://www.flaticon.com/">Flaticon</a></string>
+    <string name="credit_cc"><a href="http://creativecommons.org/licenses/by/3.0/">CC 3.0 BY</a></string>
+    <string name="ok">OK</string>
+
+    <string name="recherche">Recherche</string>
+    <string name="recherche_champ">Que recherchez-vous ?</string>
+    <string name="recherche_joueur">Un joueur</string>
+    <string name="recherche_contenu">Un article</string>
+
+    <string name="image">Image</string>
+    <string name="title_activity_page_desc1">Page de description</string>
+    <string name="tab_text_1">Biographie</string>
+    <string name="tab_text_2">Interviews</string>
+    <string name="tab_text_3">Actualité</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_profil">Profil</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="biographie">BIOGRAPHIE</string>
+    <string name="interview">INTERVIEW</string>
+    <string name="bio_page">Bio page</string>
+    <string name="recharger">Recharger</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="btnInscription">Inscription</string>
+    <string name="btnConnexion">Connexion</string>
+    <string name="deco">Déconnexion</string>
+    <string name="profil">Profil</string>
+
+    <string name="action_example">Example action</string>
+    <string name="bienvenue">Bienvenue !</string>
+    <string name="compte_existant">Vous avez déjà un compte ?\n Connectez-vous</string>
+    <string name="compte_inexistant">Vous êtes nouveau ?\n Inscrivez-vous</string>
+    <string name="s_enregistrer">s\'enregistrer plus tard</string>
+
+    <string name="connexion_hint_mail">Adresse mail</string>
+    <string name="connexion_hint_nom">Nom d\'utilisateur</string>
+    <string name="connexion_err_mail">Adresse mail non valide</string>
+    <string name="connexion_hint_mdp">Mot de passe</string>
+    <string name="connexion_err_mdp">Mot de passe non valide</string>
+    <string name="connexion_err_mdp_conf_1">Veuillez confirmer le mot de passe</string>
+    <string name="connexion_err_mdp_conf_2">Mot de passe non identique</string>
+
+    <string name="statut_connexion">Connexion en cours</string>
+    <string name="statut_inscription">Inscription en cours</string>
+
+    <string name="taille_mdp">"Le mot de passe doit contenir entre 8 et 15 caractères."</string>
+    <string name="nombre_mdp">"Le mot de passe doit contenir au moins un nombre."</string>
+    <string name="lettre_mdp">"Le mot de passe doit contenir au moins une lettre."</string>
+
+    <string name="nom_user">Nom d\'utilisateur</string>
+    <string name="nom_util">Nom</string>
+    <string name="prenom_util">Prénom</string>
+    <string name="rester_connecte">rester connecté(e)</string>
+    <string name="connexion_mdp_oublie">mot de place oublié ?</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="valider">Valider</string>
+    <string name="enregistrer">Enregistrer</string>
+
+    <string name="retour_top">Remonter</string>
+    <string name="Chargement">Chargement</string>
+    <string name="mise_a_jour">Actualisation du profil</string>
+
+    <string name="nom_requis">Entrez un nom d\'utilisateur</string>
+    <string name="nomUtil_requis">Entrez votre nom</string>
+    <string name="prenom_requis">Entrez votre prénom</string>
+
+    <string name="editer">Éditer</string>
+    <string name="supprimer">Supprimer</string>
+
+    <string name="hint_titre">Titre</string>
+    <string name="hint_sous_titre">Sous-titre</string>
+    <string name="hint_desc">Description</string>
+    <string name="hint_contenu">Contenu</string>
+
+    <string name="ne_plus_afficher">Ne plus afficher</string>
+
+    <string name="btnPost">Publier</string>
+    <string name="err_msg_titre">Entrez un titre</string>
+    <string name="err_msg_sous_titre">Entrez un sous-titre</string>
+    <string name="err_msg_desc">Entrez une description</string>
+    <string name="err_mdp_faible">Mot de passe trop faible</string>
+    <string name="err_mail_incorrect">Entrez une description</string>
+
+    <string name="hint_password">Password</string>
+    <string name="err_msg_password">Enter the password</string>
+</resources>

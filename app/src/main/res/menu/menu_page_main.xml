@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_recherche"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:title="@string/recherche"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"/>
+
+    <item
+        android:id="@+id/action_reload"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        android:title="@string/recharger"
+        app:showAsAction="ifRoom"/>
+
+    <!-- Settings, should always be in the overflow -->
+
+    <item android:id="@+id/action_profil"
+        android:title="@string/action_profil"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_deco"
+        android:title="@string/deco"
+        app:showAsAction="never"/>
+
+</menu>

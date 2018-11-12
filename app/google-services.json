@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "765558004328",
+    "firebase_url": "https://projetb2w.firebaseio.com",
+    "project_id": "projetb2w",
+    "storage_bucket": "projetb2w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765558004328:android:65be766cac2c6e1f",
+        "android_client_info": {
+          "package_name": "com.born2win.mycardviews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765558004328-e2g9kj9e44d5bovc96htmheekn0jf2l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.born2win.mycardviews",
+            "certificate_hash": "210909da34a8cb57a487c33f525baeb1ba2d95e9"
+          }
+        },
+        {
+          "client_id": "765558004328-96scokj9nto7n1mehm6uh94c83i2f4gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlgiBmgCRbzxec-51fr2Lug_gQXlMR8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765558004328-96scokj9nto7n1mehm6uh94c83i2f4gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

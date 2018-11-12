@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/accueil_layout">
+
+    <ImageView
+        android:id="@+id/accueil_fond"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:alpha="0.8"
+        android:clickable="false"
+        android:contentDescription="@string/image"
+        android:focusable="false"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_football_stade" />
+
+    <TextView
+        android:id="@+id/accueil_bienvenue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:text="@string/bienvenue"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/accueil_btnInscription"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:alpha="0.7"
+        android:background="@drawable/btn_rond"
+        android:text="@string/btnInscription"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/accueil_btnConnexion"
+        android:layout_width="123dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="214dp"
+        android:background="@drawable/btn_rond"
+        android:text="@string/btnConnexion"
+        android:alpha="0.7"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/accueil_signinText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="168dp"
+        android:layout_alignBottom="@id/accueil_btnConnexion"
+        android:textColor="@android:color/background_dark"
+        android:alpha="0.85"
+        android:text="@string/compte_existant"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/accueil_registerText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="53dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="@string/s_enregistrer"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/accueil_logo"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/image"
+        app:srcCompat="@drawable/logo_b2w_noir" />
+
+</RelativeLayout>
+
